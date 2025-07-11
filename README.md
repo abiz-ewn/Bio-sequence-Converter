@@ -1,4 +1,4 @@
-# DNA Translation to Proteins 
+
 # 🧬 DNA Translation to Proteins
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
