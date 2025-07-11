@@ -24,9 +24,11 @@ This project simulates the biological processes of **DNA transcription** and **m
 ## 🗂 Project Structure
 
 dna-translation-to-proteins/
+
 ├── main.py # Main script for running transcription and translation
 
 ├── helper.py # Contains utility functions and the amino acid codon table
+
 └── README.md # Project documentation (you are here)
 
 
